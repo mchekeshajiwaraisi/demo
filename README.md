@@ -1,5 +1,5 @@
 # Pi Demo App
-
+339b3556d3c8439b4ab9a5f6d3daf468c9ac12c3f93c4fff5dc94f8275f6b39243a52853a9410746966e4e105d7cbc4790c51ca7b0a15bfc6374bc2cd060222e
 Pi Demo App is an example of how you can implement the various required flows in your app's code.
 It aims to show you how to use Pi Platform API on the backend side and Pi SDK on the frontend side of your app.
 
